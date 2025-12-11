@@ -32,17 +32,12 @@
 ---
 
 ## 🚀 About Me  
-- 🌱 I’m currently learning **Web Development & JavaScript**
+- 🌱 I’m currently learning **Web Development **
 - 💻 Building projects regularly to improve skills  
 - 📚 Always exploring new tech  
 - 📧 Reach me at **sundramsoni5002soni@gmail.com**
 
 ---
 
-## 📌 Pinned Projects  
-👉 Go to your profile → **Customize your pins** → Pin your best repositories.
 
----
-
-⭐ **If you like my profile, consider giving a star to my repositories!**
 
