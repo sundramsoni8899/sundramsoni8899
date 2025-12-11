@@ -7,7 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sundramsoni5002soni@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sundram-soni-a88855328)
 
-
 ---
 
 ## 🧰 Tech Stack
@@ -21,13 +20,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Sundram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sundramsoni8899&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundramsoni8899&layout=compact&theme=dark)
 
 ---
 
