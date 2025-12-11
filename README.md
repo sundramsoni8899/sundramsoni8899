@@ -5,6 +5,8 @@
 
 ## 🔗 Socials  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sundramsoni5002soni@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sundram-soni-a88855328)
+
 
 ---
 
